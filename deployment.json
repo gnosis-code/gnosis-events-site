@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "349badd327fc55eb1675f739c4e87ab52ffe7401",
-  "releaseId": "web-pr-190-5ef225d",
+  "sourceSha": "ce443e7c64e0adc0dcde2e45247110227d0dca2f",
+  "releaseId": "web-pr-193-bb98829",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
