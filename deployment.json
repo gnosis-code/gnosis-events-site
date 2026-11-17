@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "27bc78c27598918d022801558d1089341d842eeb",
-  "releaseId": "web-chat-session-2026-11-17",
+  "sourceSha": "755d557789586af3eae13fb1e42ab65edb754464",
+  "releaseId": "web-chat-alignment-2026-11-17",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
