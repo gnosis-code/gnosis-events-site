@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "85f073b1b8469d6836ae2c94bb14bf4aa2ff084b",
-  "releaseId": "web-chat-inbox-2026-11-18",
+  "sourceSha": "c0c5c55db59a04ae25c4686808a02164151be25e",
+  "releaseId": "web-role-invitations-2026-11-18",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
