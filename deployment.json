@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "29173915f504ffa0233e8f3816e9f91de09067ff",
-  "releaseId": "web-compact-meetup-2026-11-18",
+  "sourceSha": "85f073b1b8469d6836ae2c94bb14bf4aa2ff084b",
+  "releaseId": "web-chat-inbox-2026-11-18",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
