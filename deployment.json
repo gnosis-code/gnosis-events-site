@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "f3a60d55abbef8350554014ea60157f024b773b6",
-  "releaseId": "web-platform-standards-2026-11-19",
+  "sourceSha": "fb2505b7b8cf103fd7cbd89b828e30b6d164693f",
+  "releaseId": "web-image-viewer-2026-11-19",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
