@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "7575bbd3cd2db9bcac03358d2fc3c4a58be878c7",
-  "releaseId": "web-person-photos-2026-11-21",
+  "sourceSha": "82fc540f865bbfeda2a1ff381dd0de0e65a13d53",
+  "releaseId": "web-email-management-2026-11-21",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
