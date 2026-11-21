@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "82fc540f865bbfeda2a1ff381dd0de0e65a13d53",
-  "releaseId": "web-email-management-2026-11-21",
+  "sourceSha": "60a07b12a381d29594447d93e1b269d80d22a761",
+  "releaseId": "web-public-support-2026-11-21-r3",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
