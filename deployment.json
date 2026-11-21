@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "8fd04b7b78fe87eb6b6a1590365d20ec92f14e1b",
-  "releaseId": "web-people-chrome-2026-11-20",
+  "sourceSha": "7575bbd3cd2db9bcac03358d2fc3c4a58be878c7",
+  "releaseId": "web-person-photos-2026-11-21",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
