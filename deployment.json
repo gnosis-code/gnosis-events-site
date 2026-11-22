@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "23c3d19ebb2d73a7f5f703e60a647f81ae2b3b49",
-  "releaseId": "web-meetup-attendance-menu-2026-11-21",
+  "sourceSha": "b11d3e7ba8696cfb5d020c3a2e2bc6f7b5cdd2d3",
+  "releaseId": "web-meetup-import-state-2026-11-21-r2",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
