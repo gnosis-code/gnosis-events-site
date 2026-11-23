@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "7dfa5cda45b0351264fe0b72fab85d6366d1452f",
-  "releaseId": "web-triggers-inbox-2026-11-22-r3",
+  "sourceSha": "c6f8c3e2bcbbe73b445da681171bd22d7c5a664a",
+  "releaseId": "group-spaces-2026-11-22",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
