@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "c6f8c3e2bcbbe73b445da681171bd22d7c5a664a",
-  "releaseId": "group-spaces-2026-11-22",
+  "sourceSha": "f154369cc1e3e6521395006db58550dba3f1986b",
+  "releaseId": "web-pr-371-0805f49",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
