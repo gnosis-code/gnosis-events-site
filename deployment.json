@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "sourceSha": "25291a5de55114b020ac87966760c2d4ee403bb5",
-  "releaseId": "mobile-chat-1-0-8-current",
+  "sourceSha": "ceec5644c55d1695945e7c4f02d30b32ef88eec0",
+  "releaseId": "web-pr-397-29ec9c0",
   "supabaseProject": "risvynuxrvkbmiwwmpvu"
 }
